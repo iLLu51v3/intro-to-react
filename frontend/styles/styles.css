@@ -63,6 +63,16 @@ h3 {
   color: black;
 }
 
+.character-details {
+  cursor: pointer;
+  color:rgb(162, 82, 16)
+}
+
+.character-details:hover {
+  text-decoration: underline;
+  color: rgb(243, 114, 8);
+}
+
 header,
 footer {
   padding: 1rem;
