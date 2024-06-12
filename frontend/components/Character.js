@@ -38,6 +38,7 @@ function Character(props) {
       {showHomeworld && (
         <p className="character-planet">Planet:{props.homeworld.name}</p>
       )}
+      
     </div>
   );
 }
